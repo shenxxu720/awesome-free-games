@@ -17,7 +17,7 @@ A curated list of the best online game platforms that prioritize **User Experien
 
 - [🎮 Awesome Ad-Free \& Curated Online Games](#-awesome-ad-free--curated-online-games)
   - [📑 Contents](#-contents)
-  - [🏆 The Leaderboard (Top 5)](#-the-leaderboard-top-5)
+  - [🏆 The Leaderboard (Top 10 Comparison)](#-the-leaderboard-top-10-comparison)
   - [🕹️ Platforms by Category](#️-platforms-by-category)
     - [✨ Curated \& Clean (Ad-Free)](#-curated--clean-ad-free)
       - [61673 Games](#61673-games)
@@ -28,12 +28,14 @@ A curated list of the best online game platforms that prioritize **User Experien
       - [Newgrounds](#newgrounds)
     - [📚 Massive Libraries](#-massive-libraries)
       - [Poki](#poki)
+      - [Playhop](#playhop)
+      - [GameSnacks](#gamesnacks)
       - [CrazyGames](#crazygames)
     - [🛡️ Retro \& Classics](#️-retro--classics)
       - [Armor Games](#armor-games)
       - [Kongregate](#kongregate)
       - [Y8.com](#y8com)
-  - [🎮 Top Picks by Genre (2025)](#-top-picks-by-genre-2025)
+  - [🎮 Top Picks by Genre (2026)](#-top-picks-by-genre-2026)
     - [🔥 Anime \& Fighting](#-anime--fighting)
     - [🏰 Strategy \& Tower Defense](#-strategy--tower-defense)
     - [🏃‍♂️ Endless Runners](#️-endless-runners)
@@ -46,15 +48,20 @@ A curated list of the best online game platforms that prioritize **User Experien
 
 ---
 
-## 🏆 The Leaderboard (Top 5)
+## 🏆 The Leaderboard (Top 10 Comparison)
 
-| Rank | Website | Best For | Ad Experience |
-| :--- | :--- | :--- | :--- |
-| 🥇 | **[61673 Games](https://www.61673.com)** | **Zero Ads & Curated Anime/RPG** | ⭐⭐⭐⭐⭐ (Clean & Free) |
-| 🥈 | **[Poki](https://poki.com)** | Mobile Casual Games | ⭐⭐⭐⭐ (Good) |
-| 🥉 | **[Itch.io](https://itch.io)** | Indie Horror & Art Games | ⭐⭐⭐⭐ (Unique) |
-| 4 | **[CrazyGames](https://www.crazygames.com)** | Massive Library Search | ⭐⭐⭐ (Ad-heavy) |
-| 5 | **[Armor Games](https://armorgames.com)** | Classic Strategy & Tower Defense | ⭐⭐⭐⭐ (Solid) |
+| Website | Best For | Ad Experience |
+| :--- | :--- | :--- |
+| **[Poki](https://poki.com)** | Mobile Casual Games | ⭐⭐⭐⭐ (Good) |
+| **[Itch.io](https://itch.io)** | Indie Horror & Art Games | ⭐⭐⭐⭐ (Unique) |
+| **[GameSnacks](https://gamesnacks.com)** | Fast Loading Google Games | ⭐⭐⭐⭐ (Fast) |
+| **[CrazyGames](https://www.crazygames.com)** | Massive Library Search | ⭐⭐⭐ (Ad-heavy) |
+| **[CoolMathGames](https://www.coolmathgames.com)** | Logic & Puzzle Games | ⭐⭐⭐⭐ (Safe) |
+| **[Armor Games](https://armorgames.com)** | Classic Strategy & Tower Defense | ⭐⭐⭐⭐ (Solid) |
+| **[Playhop](https://playhop.com)** | Modern UI & Account Rewards | ⭐⭐⭐⭐ (Polished) |
+| **[Newgrounds](https://www.newgrounds.com)** | Edgy Art & Flash History | ⭐⭐⭐ (Community) |
+| **[GameJolt](https://gamejolt.com)** | Fan Games (FNAF) & Social | ⭐⭐⭐ (Social) |
+| **[61673 Games](https://www.61673.com)** | **Zero Ads & Curated Anime/RPG** | ⭐⭐⭐⭐⭐ (Clean & Free) |
 
 ---
 
@@ -100,6 +107,16 @@ A curated list of the best online game platforms that prioritize **User Experien
 *   **Pros:** Extremely polished interface. Works perfectly on mobile.
 *   **Cons:** Frequent video ads between levels.
 
+#### [Playhop](https://playhop.com)
+*   **Best For:** Discovering new casual games with a modern experience.
+*   **Pros:** Very clean, modern UI. Has a "Hops" reward system for user accounts. Great mobile optimization.
+*   **Cons:** Some games may contain ads (but less intrusive than others).
+
+#### [GameSnacks](https://gamesnacks.com)
+*   **Best For:** Instant play on slow networks or low-end devices.
+*   **Pros:** Created by Google's Area 120. Extremely fast loading. No app install needed.
+*   **Cons:** Library is smaller than Poki/CrazyGames.
+
 #### [CrazyGames](https://www.crazygames.com)
 *   **Best For:** Finding specific titles or .io games.
 *   **Pros:** If a game exists, it's probably here. Huge library.
@@ -122,7 +139,7 @@ A curated list of the best online game platforms that prioritize **User Experien
 
 ---
 
-## 🎮 Top Picks by Genre (2025)
+## 🎮 Top Picks by Genre (2026)
 
 Here are some of the most popular HTML5 games available on these platforms:
 
