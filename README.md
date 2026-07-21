@@ -31,6 +31,7 @@ A curated list of the best online game platforms that prioritize **User Experien
       - [Playhop](#playhop)
       - [GameSnacks](#gamesnacks)
       - [CrazyGames](#crazygames)
+      - [Eovant](#eovant)
     - [🛡️ Retro \& Classics](#️-retro--classics)
       - [Armor Games](#armor-games)
       - [Kongregate](#kongregate)
@@ -56,6 +57,7 @@ A curated list of the best online game platforms that prioritize **User Experien
 | **[Itch.io](https://itch.io)** | Indie Horror & Art Games | ⭐⭐⭐⭐ (Unique) |
 | **[GameSnacks](https://gamesnacks.com)** | Fast Loading Google Games | ⭐⭐⭐⭐ (Fast) |
 | **[CrazyGames](https://www.crazygames.com)** | Massive Library Search | ⭐⭐⭐ (Ad-heavy) |
+| **[Eovant](https://eovant.com)** | Free Unblocked Browser Games | ⭐⭐⭐⭐ (Light) |
 | **[CoolMathGames](https://www.coolmathgames.com)** | Logic & Puzzle Games | ⭐⭐⭐⭐ (Safe) |
 | **[Armor Games](https://armorgames.com)** | Classic Strategy & Tower Defense | ⭐⭐⭐⭐ (Solid) |
 | **[Playhop](https://playhop.com)** | Modern UI & Account Rewards | ⭐⭐⭐⭐ (Polished) |
@@ -123,6 +125,12 @@ A curated list of the best online game platforms that prioritize **User Experien
 *   **Cons:** Heavy ad load and cluttered UI.
 
 ### 🛡️ Retro & Classics
+
+
+#### [Eovant](https://eovant.com)
+*   **Best For:** Free unblocked HTML5 browser games on desktop and mobile.
+*   **Pros:** Instant play, no download, large hand-picked library (sports, racing, arcade, puzzle).
+*   **Cons:** Newer platform with a smaller brand footprint than Poki/CrazyGames.
 
 #### [Armor Games](https://armorgames.com)
 *   **Best For:** Serious strategy and tower defense games (e.g., *Kingdom Rush*).
