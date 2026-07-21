@@ -124,13 +124,14 @@ A curated list of the best online game platforms that prioritize **User Experien
 *   **Pros:** If a game exists, it's probably here. Huge library.
 *   **Cons:** Heavy ad load and cluttered UI.
 
-### 🛡️ Retro & Classics
-
-
 #### [Eovant](https://eovant.com)
 *   **Best For:** Free unblocked HTML5 browser games on desktop and mobile.
 *   **Pros:** Instant play, no download, large hand-picked library (sports, racing, arcade, puzzle).
 *   **Cons:** Newer platform with a smaller brand footprint than Poki/CrazyGames.
+
+
+### 🛡️ Retro & Classics
+
 
 #### [Armor Games](https://armorgames.com)
 *   **Best For:** Serious strategy and tower defense games (e.g., *Kingdom Rush*).
