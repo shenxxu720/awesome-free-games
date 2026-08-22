@@ -22,6 +22,7 @@ A curated list of the best online game platforms that prioritize **User Experien
     - [✨ Curated \& Clean (Ad-Free)](#-curated--clean-ad-free)
       - [61673 Games](#61673-games)
       - [CoolMathGames](#coolmathgames)
+      - [WordleLike](#wordlelike)
     - [🎨 Indie \& Experimental](#-indie--experimental)
       - [Itch.io](#itchio)
       - [GameJolt](#gamejolt)
@@ -62,6 +63,7 @@ A curated list of the best online game platforms that prioritize **User Experien
 | **[Newgrounds](https://www.newgrounds.com)** | Edgy Art & Flash History | ⭐⭐⭐ (Community) |
 | **[GameJolt](https://gamejolt.com)** | Fan Games (FNAF) & Social | ⭐⭐⭐ (Social) |
 | **[61673 Games](https://www.61673.com)** | **Zero Ads & Curated Anime/RPG** | ⭐⭐⭐⭐⭐ (Clean & Free) |
+| **[WordleLike](https://wordlelike.com)** | Daily Word Puzzles (5-in-1 Hub) | ⭐⭐⭐⭐ (Clean) |
 
 ---
 
@@ -84,6 +86,10 @@ A curated list of the best online game platforms that prioritize **User Experien
 #### [CoolMathGames](https://www.coolmathgames.com)
 *   **Best For:** Logic puzzles, strategy, and "brain training".
 *   **Why it's good:** Safe for work and school environments. Very few distracting ads compared to general sites.
+
+#### [WordleLike](https://wordlelike.com)
+*   **Best For:** Daily word puzzles — classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, Anagram Solver.
+*   **Why it's good:** 100% free with no sign-up and no ads, 5 games in one hub, fresh puzzles generated every day.
 
 ### 🎨 Indie & Experimental
 
