@@ -26,6 +26,7 @@ A curated list of the best online game platforms that prioritize **User Experien
       - [Itch.io](#itchio)
       - [GameJolt](#gamejolt)
       - [Newgrounds](#newgrounds)
+      - [Elunvi Games](#elunvi-games)
     - [📚 Massive Libraries](#-massive-libraries)
       - [Poki](#poki)
       - [Playhop](#playhop)
@@ -99,6 +100,11 @@ A curated list of the best online game platforms that prioritize **User Experien
 #### [Newgrounds](https://www.newgrounds.com)
 *   **Best For:** The "edgy" side of web gaming.
 *   **Pros:** The rebellious grandfather of Flash games. Unique art style and animations.
+
+#### [Elunvi Games](https://elunvi.fun/)
+- **Best For:** Friends sharing one keyboard and players looking for short browser puzzles.
+- **Pros:** The local co-op guide explains both players’ roles and controls. Each game page names its creator and supported devices.
+- **Cons:** Device and language support vary by game.
 
 ### 📚 Massive Libraries
 
